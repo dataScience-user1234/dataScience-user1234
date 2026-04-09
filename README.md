@@ -1,6 +1,6 @@
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding GIF" />
-
 ## Hi, I'm Abdallah <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding GIF" />
 
 📊 Data science student at Université Clermont Auvergne<br/><br/>
 🌐 Specializing in cybersecurity<br/><br/>
