@@ -3,7 +3,7 @@
   <img height="50" width="100%" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
 </div>
 
-<img align="right" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="200" alt="Coding GIF" />
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding GIF" />
 
 📊 Data science student at Université Clermont Auvergne<br/><br/>
 🌐 Specializing in cybersecurity<br/><br/>
