@@ -1,4 +1,4 @@
-## Hi, I'm Abdallah <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi, I'm Abdallah <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <div align="center">
   <img height="50" width="100%" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
 </div>
@@ -9,7 +9,7 @@
 🌐 Specializing in cybersecurity<br/><br/>
 🐍 Always learning. Always coding.<br/><br/><br/>
 
-## 💻 Tech Stack:
+### 💻 Tech Stack:
 <div align="center">
   <img height="50" width="100%" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
 </div>
