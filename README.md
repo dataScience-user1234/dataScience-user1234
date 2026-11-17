@@ -6,7 +6,7 @@
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding GIF" />
 
 📊 Data science student at Université Clermont Auvergne<br/><br/>
-🌐 Statistics, programming and cybersecurity <br/><br/>
+🌐 Statistics, programming and data engineering <br/><br/>
 🐍 Always learning. Always coding.<br/><br/><br/>
 
 ### 💻 Tech Stack:
